@@ -1,0 +1,110 @@
+{
+  "Navigation": {
+    "home": "Anasayfa",
+    "portfolio": "Portföy",
+    "about": "Hakkımda",
+    "contact": "İletişim",
+    "quickQuote": "Hızlı Teklif",
+    "changeLanguage": "Dili Değiştir"
+  },
+  "Hero": {
+    "title": "Profesyonel Seslendirme Sanatçısı",
+    "subtitle": "Metinlerinize duygu ve netlikle hayat veriyorum.",
+    "cta": "Demolarımı Dinle"
+  },
+  "Portfolio": {
+    "commercial": "Reklamlar",
+    "narration": "Anlatım",
+    "character": "Karakter / Animasyon",
+    "audiobook": "Sesli Kitaplar",
+    "listenNow": "Şimdi Dinle"
+  },
+  "Contact": {
+    "title": "İletişime Geç",
+    "name": "Adınız",
+    "email": "E-postanız",
+    "projectType": "Proje Türü",
+    "typeCommercial": "Reklam",
+    "typeDubbing": "Dublaj",
+    "typeOther": "Diğer",
+    "message": "Mesajınız",
+    "send": "Mesaj Gönder",
+    "success": "Mesaj başarıyla gönderildi!",
+    "error": "Mesajınız gönderilirken bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "Equipment": {
+    "title": "Stüdyo Ekipmanları",
+    "subtitle": "Yayın kalitesinde ses için profesyonel donanım.",
+    "mic": "Mikrofon",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "Ses Arabirimi",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "DAW",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "Akustik Kabin",
+    "cabinDesc": "Profesyonel ses yalıtımlı kabin",
+    "scrollHint": "Daha fazlası için kaydırın"
+  },
+  "Player": {
+    "play": "Oynat",
+    "pause": "Duraklat",
+    "switchLanguage": "Dili Değiştir",
+    "pl": "Lehçe",
+    "en": "İngilizce",
+    "zh": "Çince",
+    "ru": "Rusça",
+    "tr": "Türkçe",
+    "ja": "Japonca",
+    "de": "Almanca",
+    "mute": "Sesi Kapat",
+    "unmute": "Sesi Aç"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Resmi profilim ve önemli rollerim.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Kamera arkası ve günlük güncellemeler.",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Video portföyleri, tanıtım videoları ve daha fazlası.",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Profesyonel bağlantılar ve özgeçmiş."
+  },
+  "DirectContact": {
+    "title": "Konuşalım",
+    "subtitle": "E-posta veya WhatsApp üzerinden doğrudan bana ulaşın.",
+    "copyEmail": "E-posta adresini kopyala",
+    "copied": "Kopyalandı!",
+    "whatsapp": "WhatsApp'tan Yaz"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Tüm hakları saklıdır.",
+    "contactEmail": "İletişim E-postası",
+    "phone": "Telefon",
+    "backToTop": "Başa Dön",
+    "language": "Dil"
+  },
+  "SEO": {
+    "title": "Skryty | Profesyonel Seslendirme Sanatçısı",
+    "description": "Reklamlar, anlatımlar, karakter seslendirmesi ve sesli kitaplar için profesyonel seslendirme hizmetleri. Metinlerinize duygu ve netlikle hayat verin.",
+    "ogTitle": "Skryty - Seslendirme Portföyü"
+  },
+  "Error": {
+    "notFoundTitle": "Sayfa Bulunamadı",
+    "notFoundDesc": "Aradığınız sayfa bulunamadı.",
+    "errorTitle": "Bir şeyler yanlış gitti!",
+    "errorDesc": "Beklenmeyen bir hata oluştu.",
+    "backHome": "Ana Sayfaya Dön",
+    "tryAgain": "Tekrar Dene"
+  },
+  "AboutMe": {
+    "title": "Hakkımda",
+    "subtitle": "Atmosferin Arkasındaki Ses",
+    "description": "Karakterlere, markalara ve anlatımlara hayat verme konusunda uzmanlaşmış çok yönlü ve tutkulu bir seslendirme sanatçısıyım. Mikrofondaki yılların getirdiği tecrübeyle, tonumu sıcak ve sohbete dayalı bir tarzdan daha otoriter ve sinematik bir yapıya dönüştürebilen bir yetenek geliştirdim. Amacım basit: Senaryonuzun hedef kitlenizle yankı bulmasını sağlamak.",
+    "goalsTitle": "Misyonum",
+    "goalsDesc": "Her projeyi otantik duygu, kusursuz ses kalitesi ve işbirliği ruhuyla bir üst seviyeye taşımak.",
+    "trait1": "Profesyonel Stüdyo",
+    "trait2": "Hızlı Teslimat",
+    "trait3": "Çok Yönlü Ses Aralığı",
+    "trait4": "Yönetilebilir & İşbirlikçi"
+  }
+}

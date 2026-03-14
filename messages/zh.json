@@ -1,0 +1,110 @@
+{
+  "Navigation": {
+    "home": "首页",
+    "portfolio": "作品集",
+    "about": "关于我",
+    "contact": "联系方式",
+    "quickQuote": "快速报价",
+    "changeLanguage": "切换语言"
+  },
+  "Hero": {
+    "title": "专业配音演员",
+    "subtitle": "用情感与清晰度为您的剧本注入生命。",
+    "cta": "试听我的演示"
+  },
+  "Portfolio": {
+    "commercial": "商业广告",
+    "narration": "旁白叙述",
+    "character": "角色 / 动画",
+    "audiobook": "有声读物",
+    "listenNow": "立即收听"
+  },
+  "Contact": {
+    "title": "取得联系",
+    "name": "您的姓名",
+    "email": "您的邮箱",
+    "projectType": "项目类型",
+    "typeCommercial": "商业广告",
+    "typeDubbing": "配音",
+    "typeOther": "其他",
+    "message": "您的留言",
+    "send": "发送留言",
+    "success": "留言发送成功！",
+    "error": "发送留言时出错，请重试。"
+  },
+  "Equipment": {
+    "title": "工作室设备",
+    "subtitle": "广播级音频的专业设备。",
+    "mic": "麦克风",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "音频接口",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "数字音频工作站",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "隔音舱",
+    "cabinDesc": "专业隔音室",
+    "scrollHint": "滑动查看更多"
+  },
+  "Player": {
+    "play": "播放",
+    "pause": "暂停",
+    "switchLanguage": "切换语言",
+    "pl": "波兰语",
+    "en": "英语",
+    "zh": "中文",
+    "ru": "俄语",
+    "tr": "土耳其语",
+    "ja": "日语",
+    "de": "德语",
+    "mute": "静音",
+    "unmute": "取消静音"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "配音百科",
+    "dubbingpediaDesc": "我的官方资料和主要角色。",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "幕后花絮和日常更新。",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "视频作品集、展示卷轴等。",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "专业人脉和简历。"
+  },
+  "DirectContact": {
+    "title": "联系我们",
+    "subtitle": "通过电子邮件或 WhatsApp 直接联系。",
+    "copyEmail": "复制邮箱地址",
+    "copied": "已复制！",
+    "whatsapp": "在 WhatsApp 上发消息"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA。保留所有权利。",
+    "contactEmail": "联系邮箱",
+    "phone": "电话",
+    "backToTop": "回到顶部",
+    "language": "语言"
+  },
+  "SEO": {
+    "title": "Skryty | 专业配音演员",
+    "description": "提供商业广告、旁白、角色扮演和有声读物的专业配音服务。用情感与清晰度为您的剧本注入生命。",
+    "ogTitle": "Skryty - 配音作品集"
+  },
+  "Error": {
+    "notFoundTitle": "页面未找到",
+    "notFoundDesc": "您寻找的页面不存在。",
+    "errorTitle": "出了点问题！",
+    "errorDesc": "发生意外错误。",
+    "backHome": "返回主页",
+    "tryAgain": "重试"
+  },
+  "AboutMe": {
+    "title": "关于我",
+    "subtitle": "氛围背后的声音",
+    "description": "我是一名多才多艺、充满激情的配音演员，擅长为角色、品牌和旁白注入生命。凭借在麦克风前多年的经验，我培养出了像变色龙一般适应各种语调的能力——从温暖和对话式的语气，到权威和电影般的表现。我的目标很简单：让您的剧本与目标观众产生共鸣，确保每一个字都切中要害。",
+    "goalsTitle": "我的使命",
+    "goalsDesc": "用真实的情感、纯净的音质和合作的精神，提升每一个项目的质量。",
+    "trait1": "专业工作室",
+    "trait2": "快速交付",
+    "trait3": "音域宽广",
+    "trait4": "善于合作与被指导"
+  }
+}

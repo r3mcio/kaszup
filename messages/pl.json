@@ -1,0 +1,105 @@
+{
+  "Navigation": {
+    "home": "Strona Główna",
+    "portfolio": "Portfolio",
+    "about": "O Mnie",
+    "contact": "Kontakt",
+    "quickQuote": "Szybka Wycena",
+    "changeLanguage": "Zmień język"
+  },
+  "Hero": {
+    "title": "Profesjonalny Lektor",
+    "subtitle": "Ożywiam Twoje teksty z emocją i klarownością.",
+    "cta": "Posłuchaj moich Dem"
+  },
+  "Portfolio": {
+    "commercial": "Reklamy",
+    "narration": "Narracja",
+    "character": "Postacie / Animacja",
+    "audiobook": "Audiobooki",
+    "listenNow": "Posłuchaj"
+  },
+  "Contact": {
+    "title": "Skontaktuj się",
+    "name": "Twoje Imię",
+    "email": "Twój Email",
+    "projectType": "Rodzaj Projektu",
+    "typeCommercial": "Reklama",
+    "typeDubbing": "Dubbing",
+    "typeOther": "Inne",
+    "message": "Twoja Wiadomość",
+    "send": "Wyślij Wiadomość",
+    "success": "Wiadomość wysłana pomyślnie!",
+    "error": "Wystąpił błąd podczas wysyłania wiadomości. Spróbuj ponownie."
+  },
+  "Equipment": {
+    "title": "Sprzęt Studyjny",
+    "subtitle": "Profesjonalny sprzęt do nagrań o radiowej jakości.",
+    "mic": "Mikrofon",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "Interfejs Audio",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "DAW",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "Kabina Akustyczna",
+    "cabinDesc": "Wyciszona kabina profesjonalna",
+    "scrollHint": "Przesuń, aby zobaczyć więcej"
+  },
+  "Player": {
+    "play": "Odtwórz",
+    "pause": "Pauza",
+    "switchLanguage": "Zmień język",
+    "pl": "Polski",
+    "en": "Angielski",
+    "mute": "Wycisz",
+    "unmute": "Wyłącz wyciszenie"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Mój oficjalny profil i główne role.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Kulisy zza mikrofonu i nowości.",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Portfolio wideo, demówki i inne.",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Kontakty zawodowe i doświadczenie."
+  },
+  "DirectContact": {
+    "title": "Porozmawiajmy",
+    "subtitle": "Skontaktuj się bezpośrednio przez e-mail lub WhatsApp.",
+    "copyEmail": "Skopiuj adres e-mail",
+    "copied": "Skopiowano!",
+    "whatsapp": "Napisz na WhatsApp"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Wszelkie prawa zastrzeżone.",
+    "contactEmail": "Adres E-mail",
+    "phone": "Telefon",
+    "backToTop": "Wróć do góry",
+    "language": "Język"
+  },
+  "SEO": {
+    "title": "Skryty | Profesjonalny Lektor",
+    "description": "Profesjonalne usługi lektorskie: reklamy, narracje, dubbing i audiobooki. Ożywiam Twoje teksty z emocją i klarownością.",
+    "ogTitle": "Skryty - Portfolio Lektorskie"
+  },
+  "Error": {
+    "notFoundTitle": "Nie znaleziono strony",
+    "notFoundDesc": "Strona, której szukasz, nie istnieje.",
+    "errorTitle": "Coś poszło nie tak!",
+    "errorDesc": "Wystąpił nieoczekiwany błąd.",
+    "backHome": "Wróć Na Główną",
+    "tryAgain": "Spróbuj Ponownie"
+  },
+  "AboutMe": {
+    "title": "O Mnie",
+    "subtitle": "Głos, który nadaje ton",
+    "description": "Jestem wszechstronnym i pełnym pasji aktorem głosowym, specjalizującym się w ożywianiu postaci, marek i narracji. Dzięki latom doświadczenia przed mikrofonem rozwinąłem umiejętność błyskawicznej adaptacji tonu — od ciepłego i konwersacyjnego po autorytatywny i kinowy. Mój cel jest prosty: sprawić, by Twój scenariusz trafił do odbiorców, upewniając się, że każde słowo wybrzmi idealnie.",
+    "goalsTitle": "Moja Misja",
+    "goalsDesc": "Podnoszenie jakości każdego projektu dzięki autentycznym emocjom, nieskazitelnej jakości dźwięku i duchowi współpracy.",
+    "trait1": "Profesjonalne Studio",
+    "trait2": "Szybka Realizacja",
+    "trait3": "Wszechstronny Głos",
+    "trait4": "Otwartość na Reżyserię"
+  }
+}

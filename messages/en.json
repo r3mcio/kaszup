@@ -1,0 +1,105 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About Me",
+    "contact": "Contact",
+    "quickQuote": "Quick Quote",
+    "changeLanguage": "Change Language"
+  },
+  "Hero": {
+    "title": "Professional Voice Actor",
+    "subtitle": "Bringing your scripts to life with emotion and clarity.",
+    "cta": "Listen to my Demos"
+  },
+  "Portfolio": {
+    "commercial": "Commercials",
+    "narration": "Narration",
+    "character": "Character / Animation",
+    "audiobook": "Audiobooks",
+    "listenNow": "Listen Now"
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "name": "Your Name",
+    "email": "Your Email",
+    "projectType": "Project Type",
+    "typeCommercial": "Commercial",
+    "typeDubbing": "Dubbing",
+    "typeOther": "Other",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "Equipment": {
+    "title": "Studio Equipment",
+    "subtitle": "Professional gear for broadcast-quality audio.",
+    "mic": "Microphone",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "Audio Interface",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "DAW",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "Acoustic Cabin",
+    "cabinDesc": "Professional soundproof booth",
+    "scrollHint": "Swipe to see more"
+  },
+  "Player": {
+    "play": "Play",
+    "pause": "Pause",
+    "switchLanguage": "Switch Language",
+    "pl": "Polish",
+    "en": "English",
+    "mute": "Mute",
+    "unmute": "Unmute"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "My official profile and major roles.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Behind-the-scenes and daily updates.",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Video portfolios, reels, and more.",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Professional connections and resume."
+  },
+  "DirectContact": {
+    "title": "Let's Talk",
+    "subtitle": "Reach out directly via email or WhatsApp.",
+    "copyEmail": "Copy email address",
+    "copied": "Copied!",
+    "whatsapp": "Message on WhatsApp"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. All rights reserved.",
+    "contactEmail": "Contact Email",
+    "phone": "Phone",
+    "backToTop": "Back to top",
+    "language": "Language"
+  },
+  "SEO": {
+    "title": "Skryty | Professional Voice Actor",
+    "description": "Professional voice-over services for commercials, narrations, character acting, and audiobooks. Bring your scripts to life with emotion and clarity.",
+    "ogTitle": "Skryty - Voice Over Portfolio"
+  },
+  "Error": {
+    "notFoundTitle": "Page Not Found",
+    "notFoundDesc": "The page you are looking for could not be found.",
+    "errorTitle": "Something went wrong!",
+    "errorDesc": "An unexpected error has occurred.",
+    "backHome": "Back To Home",
+    "tryAgain": "Try Again"
+  },
+  "AboutMe": {
+    "title": "About Me",
+    "subtitle": "The Voice Behind the Vibe",
+    "description": "I am a versatile and passionate voice actor specializing in bringing characters, brands, and narrations to life. With years of experience behind the mic, I've developed a chameleon-like ability to adapt my tone—from warm and conversational to authoritative and cinematic. My goal is simple: to make your script resonate with its intended audience, ensuring every word hits the mark.",
+    "goalsTitle": "My Mission",
+    "goalsDesc": "To elevate every project with authentic emotion, pristine audio quality, and a collaborative spirit.",
+    "trait1": "Professional Studio",
+    "trait2": "Fast Turnaround",
+    "trait3": "Versatile Range",
+    "trait4": "Directable & Collaborative"
+  }
+}

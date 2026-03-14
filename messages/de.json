@@ -1,0 +1,110 @@
+{
+  "Navigation": {
+    "home": "Startseite",
+    "portfolio": "Portfolio",
+    "about": "Über mich",
+    "contact": "Kontakt",
+    "quickQuote": "Kurzes Angebot",
+    "changeLanguage": "Sprache wechseln"
+  },
+  "Hero": {
+    "title": "Professioneller Sprecher",
+    "subtitle": "Ich erwecke Ihre Skripte mit Emotion und Klarheit zum Leben.",
+    "cta": "Hörproben anhören"
+  },
+  "Portfolio": {
+    "commercial": "Werbespots",
+    "narration": "Off-Stimme",
+    "character": "Charaktere / Animation",
+    "audiobook": "Hörbücher",
+    "listenNow": "Jetzt anhören"
+  },
+  "Contact": {
+    "title": "Nehmen Sie Kontakt auf",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "projectType": "Projekttyp",
+    "typeCommercial": "Werbespot",
+    "typeDubbing": "Synchronisation",
+    "typeOther": "Andere",
+    "message": "Ihre Nachricht",
+    "send": "Nachricht senden",
+    "success": "Nachricht erfolgreich gesendet!",
+    "error": "Es gab einen Fehler beim Senden. Bitte versuchen Sie es erneut."
+  },
+  "Equipment": {
+    "title": "Studioausrüstung",
+    "subtitle": "Professionelles Equipment für Audio in Sendequalität.",
+    "mic": "Mikrofon",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "Audio-Interface",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "DAW",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "Akustikkabine",
+    "cabinDesc": "Professionelle schallisolierte Kabine",
+    "scrollHint": "Wischen Sie, um mehr zu sehen"
+  },
+  "Player": {
+    "play": "Abspielen",
+    "pause": "Pausieren",
+    "switchLanguage": "Sprache wechseln",
+    "pl": "Polnisch",
+    "en": "Englisch",
+    "zh": "Chinesisch",
+    "ru": "Russisch",
+    "tr": "Türkisch",
+    "ja": "Japanisch",
+    "de": "Deutsch",
+    "mute": "Stummschalten",
+    "unmute": "Stummschaltung aufheben"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Mein offizielles Profil und wichtige Rollen.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Hinter den Kulissen und Updates.",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Videoportfolios, Showreels und mehr.",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Professionelles Netzwerk und Lebenslauf."
+  },
+  "DirectContact": {
+    "title": "Lassen Sie uns reden",
+    "subtitle": "Kontaktieren Sie mich direkt per E-Mail oder WhatsApp.",
+    "copyEmail": "E-Mail-Adresse kopieren",
+    "copied": "Kopiert!",
+    "whatsapp": "Nachricht auf WhatsApp"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Alle Rechte vorbehalten.",
+    "contactEmail": "Kontakt E-Mail",
+    "phone": "Telefon",
+    "backToTop": "Zurück nach oben",
+    "language": "Sprache"
+  },
+  "SEO": {
+    "title": "Skryty | Professioneller Sprecher",
+    "description": "Professionelle Sprecherdienste für Werbung, Erzählungen, Charaktere und Hörbücher. Erwecken Sie Ihre Texte mit Klarheit zum Leben.",
+    "ogTitle": "Skryty - Sprecher Portfolio"
+  },
+  "Error": {
+    "notFoundTitle": "Seite Nicht Gefunden",
+    "notFoundDesc": "Die gesuchte Seite existiert nicht.",
+    "errorTitle": "Ein Fehler ist aufgetreten!",
+    "errorDesc": "Es gab einen unerwarteten Fehler.",
+    "backHome": "Zurück zur Startseite",
+    "tryAgain": "Erneut Versuchen"
+  },
+  "AboutMe": {
+    "title": "Über mich",
+    "subtitle": "Die Stimme hinter der Stimmung",
+    "description": "Ich bin ein vielseitiger und leidenschaftlicher professioneller Sprecher, der sich darauf spezialisiert hat, Charakteren, Marken und Erzählungen Leben einzuhauchen. Mit jahrelanger Erfahrung vor dem Mikrofon habe ich die chamäleonartige Fähigkeit entwickelt, meinen Tonfall anzupassen – von warm und gesprächig bis hin zu autoritär und filmisch. Mein Ziel ist einfach: Ihr Skript soll beim beabsichtigten Publikum Anklang finden.",
+    "goalsTitle": "Meine Mission",
+    "goalsDesc": "Jedes Projekt mit authentischer Emotion, makelloser Audioqualität und einem kollaborativen Geist zu bereichern.",
+    "trait1": "Professionelles Studio",
+    "trait2": "Schnelle Bearbeitung",
+    "trait3": "Vielseitiger Stimmumfang",
+    "trait4": "Gut zu regissieren"
+  }
+}
